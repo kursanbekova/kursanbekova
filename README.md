@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Adina</h1>
+<h1>Hi 👋, I'm Adina</h1>
 
-<p align="center">Frontend Developer from Kyrgyzstan 🇰🇬</p>
+<p>Frontend Developer from Kyrgyzstan 🇰🇬</p>
 
-<h3 align="center">🔧 Technologies & Tools I Work With 🔧</h3>
+<h3>🔧 Technologies & Tools I Work With 🔧</h3>
 
-<p align="center">
+<p>
   <!-- IDE -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
 
@@ -33,17 +33,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
 
-<h3 align="center">🗣️ Languages I Speak</h3>
+<h3>🗣️ Languages I Speak</h3>
 
-<p align="center">
+<p>
   • Kyrgyz — Native <br/>
   • Russian — Fluent <br/>
   • English — Upper Intermediate
 </p>
 
-<h3 align="center">📱 Contact Me</h3>
+<h3>📱 Contact Me</h3>
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/adina-kursanbek-kyzy-97402632a/">LinkedIn</a> • 
   <a href="https://t.me/k_ad1na">Telegram</a> • 
   WhatsApp: +996 220 38 90 01
